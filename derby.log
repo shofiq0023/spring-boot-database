@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jan 11 12:00:40 BDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017e-47b9-65a3-0000027f6600 
+on database directory memory:/home/munir/Documents/workspace-spring-tool-suite-4-4.13.0.RELEASE/postgres-practice/cbc9c2cb-dfce-41db-af06-665ca251f22d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@21588809 
+Loaded from file:/home/munir/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.1+12
+user.dir=/home/munir/Documents/workspace-spring-tool-suite-4-4.13.0.RELEASE/postgres-practice
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-210-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
